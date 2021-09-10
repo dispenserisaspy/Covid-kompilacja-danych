@@ -1,4 +1,4 @@
-Na podstawie danych dotyczących liczby przypadków Covid19 wiosną 2020 roku w różnych krajach aplikacja, która umożliwia:
+Na podstawie danych dotyczących liczby przypadków Covid19 wiosną 2020 roku w różnych krajach aplikacja umożliwia:
 
 przeglądanie danych pod względem kontynentu,
 przeglądanie danych pod względem kraju,
